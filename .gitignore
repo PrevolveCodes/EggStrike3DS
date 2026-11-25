@@ -1,0 +1,8 @@
+# build output (releases carry the .3dsx)
+build/
+build_*/
+*.elf
+*.3dsx
+*.smdh
+*.cia
+*.zip
